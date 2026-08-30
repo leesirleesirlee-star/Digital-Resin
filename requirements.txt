@@ -1,0 +1,6 @@
+numpy>=1.24
+matplotlib>=3.7
+ase>=3.22
+rdkit>=2023.09.0
+deepxde>=1.10.0
+mace-torch>=0.3.0
